@@ -1,0 +1,1 @@
+This example demonstrates a common Python error: forgetting to close parentheses in a function definition. The `SyntaxError` clearly indicates the problem's location. The solution shows how to fix the error by adding the missing closing parenthesis.
